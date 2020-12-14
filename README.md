@@ -3,13 +3,15 @@
 ## 2020년 2학기 데이터베이스 수업 프로젝트
 
 ### 프로젝트 개요
-#### 1.K_COVID19.csv 데이터를 parsing하여 새로운 데이터를 생성한다.
-#### 2. 데이터베이스 설계를 통해 테이블을 생성하고 mysql에 저장한다.
+#### 사용기술 mysql, python, php, javascript, Kakao Map APi
+
+#### 1. K_COVID19.csv 데이터를 parsing하여 가공해서 새로운 데이터테이블을 가진 csv로 만듭니다.
+#### 2. 데이터베이스 설계를 통해 원하는 정보를 가진 테이블을 생성하고 이를 mysql에 저장한다.
 #### 3. php, javascript로 웹페이지를 구현하고 카카오 MAP API를 통해 해당 정보를 지도에 표시한다.
 
 
-## 1.팀
-![team](https://user-images.githubusercontent.com/50866506/102106000-66b17880-3e73-11eb-98de-ebb81f9f5bd8.JPG)
+## 1.팀 정보
+![team-역할](https://user-images.githubusercontent.com/50866506/102108134-e3dded00-3e75-11eb-8e0f-c135cdefbd68.JPG)
 
 ## 2.테이블 설계 및 sql 실행화면
 
@@ -17,12 +19,15 @@
 ![region_info](https://user-images.githubusercontent.com/50866506/102103315-33211f00-3e70-11eb-8710-050173838340.PNG)
 
 ### 2-2.timeageinfo (연령별정보)
+![timeageinfo](https://user-images.githubusercontent.com/50866506/102106813-5f3e9f00-3e74-11eb-947b-a2e1351a45b0.JPG)
 ![timeageinfo](https://user-images.githubusercontent.com/50866506/102103319-34524c00-3e70-11eb-839d-56997a1d2e86.PNG)
 
 ### 2-3.timegenderinfo (성별정보)
+![timegenderinfo](https://user-images.githubusercontent.com/50866506/102106816-606fcc00-3e74-11eb-827a-2a1948b09836.JPG)
 ![timegenderinfo](https://user-images.githubusercontent.com/50866506/102103322-34eae280-3e70-11eb-82a7-06e541cee69b.PNG)
 
 ### 2-4.timeprovinceinfo (도시별정보)
+![timeprovinceinfo](https://user-images.githubusercontent.com/50866506/102106818-606fcc00-3e74-11eb-84ea-b44489f034b4.JPG)
 ![timeprovinceinfo](https://user-images.githubusercontent.com/50866506/102103326-34eae280-3e70-11eb-8647-0845378d0d54.PNG)
 ### 2-5. weatherinfo (날짜정보)
 ![weather_info](https://user-images.githubusercontent.com/50866506/102103329-35837900-3e70-11eb-8be4-0e4f085eb692.PNG)
