@@ -7,9 +7,9 @@
 ### 프로젝트 기간 11/4 ~ 12/1
 ### mysql, python, php, javascript, Kakao Map APi
 
-### 1.K_COVID19.csv 데이터를 parsing하여 가공해서 새로운 데이터테이블을 가진 csv로 만듭니다.
-### 2. 데이터베이스 설계를 통해 원하는 정보를 가진 테이블을 생성하고 이를 mysql에 저장한다.
-### 3. php, javascript로 웹페이지를 구현하고 카카오 MAP API를 통해 해당 정보를 지도에 표시한다.
+#### 1.K_COVID19.csv 데이터를 parsing하여 가공해서 새로운 데이터테이블을 가진 csv로 만듭니다.
+#### 2. 데이터베이스 설계를 통해 원하는 정보를 가진 테이블을 생성하고 이를 mysql에 저장한다.
+#### 3. php, javascript로 웹페이지를 구현하고 카카오 MAP API를 통해 해당 정보를 지도에 표시한다.
 
 
 ## 1.팀 정보
