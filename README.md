@@ -1,11 +1,11 @@
 # K_COVID19_PROJECT
 
-## 2020년 2학기 데이터베이스 수업 프로젝트
+# 2020년 2학기 데이터베이스 수업 프로젝트
 
-### 프로젝트 개요
+# 프로젝트 개요
 
-#### 프로젝트 기간 11/4 ~ 12/1
-#### mysql, python, php, javascript, Kakao Map APi
+### 프로젝트 기간 11/4 ~ 12/1
+### mysql, python, php, javascript, Kakao Map APi
 
 ### 1.K_COVID19.csv 데이터를 parsing하여 가공해서 새로운 데이터테이블을 가진 csv로 만듭니다.
 ### 2. 데이터베이스 설계를 통해 원하는 정보를 가진 테이블을 생성하고 이를 mysql에 저장한다.
